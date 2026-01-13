@@ -3,7 +3,6 @@
 ## Project Overview
 This project focuses on predicting Parkinson’s disease using wave drawing images. The main idea is that people with Parkinson’s disease tend to draw unsteady or irregular wave patterns compared to healthy individuals. By applying image preprocessing, data augmentation, and deep learning models, the system aims to classify wave drawings into two categories: **Healthy** and **Parkinson**.
 
-The project was developed as a group assignment under the team name **WE WORK HARD BUT PUNCH’S LAPTOP WORKS HARDER**.
 
 ## My Responsibilities
 - Designed and implemented the CNN model
