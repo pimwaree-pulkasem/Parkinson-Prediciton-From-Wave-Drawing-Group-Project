@@ -5,6 +5,11 @@ This project focuses on predicting Parkinson’s disease using wave drawing imag
 
 The project was developed as a group assignment under the team name **WE WORK HARD BUT PUNCH’S LAPTOP WORKS HARDER**.
 
+## My Responsibilities
+- Designed and implemented the CNN model
+- Performed data preprocessing and augmentation
+- Evaluated model performance and reported results
+
 ## Objective
 - Analyze wave drawing patterns
 - Train deep learning models to classify drawings as Healthy or Parkinson
